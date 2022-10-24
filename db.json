@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "Birinchi post",
+            "body": "Birinchi post kontenti"
+        }
+    ]
+}
